@@ -8,11 +8,6 @@ avatarTitle: fire
 avatarDesc: C Language、Linux
 url: "https://54fire.github.io/"
 
-# Comment
-# comment:
-    # disqus: leopard
-    # uyan: 2143225  # 有言id,登录有言官网申请
-
 # Social
 social:
     # weibo:
@@ -49,5 +44,3 @@ nav:
 gems: [jekyll-paginate,jekyll-sitemap]
 paginate: 20
 paginate_path: "page/:num/"
-
-
