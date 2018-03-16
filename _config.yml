@@ -37,9 +37,15 @@ disqus_shortname:   54fire
   #ad-client:
   #ad-slot:
 #bing-verify:
+<<<<<<< HEAD
 email:		   54fireljw@gmail.com
 #twitter:            username
 #facebook:           username
+=======
+#email:
+twitter:            username
+facebook:           username
+>>>>>>> 2a7c7eb15000c481793eba751512b4ba3fa17850
 github-url:         54fire
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
