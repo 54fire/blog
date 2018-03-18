@@ -1,12 +1,7 @@
 # Site
 title:              54fire
-<<<<<<< HEAD
-bio:                '苟利国家生死以，岂因福祸避趋之'
-description:        "C语言、Linux"
-=======
 bio:                '苟利国家生死以,岂因福祸避趋之'
 description:        "Welcome to my blog."
->>>>>>> 60499c2ef1f50c7a5981080f615bbd8ea91bfe09
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/fire.jpeg'
@@ -42,15 +37,10 @@ disqus_shortname:   54fire
   #ad-client:
   #ad-slot:
 #bing-verify:
-<<<<<<< HEAD
 email:		   54fireljw@gmail.com
 #twitter:            username
+#twitter:            username
 #facebook:           username
-=======
-#email:
-twitter:            username
-facebook:           username
->>>>>>> 2a7c7eb15000c481793eba751512b4ba3fa17850
 github-url:         54fire
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
