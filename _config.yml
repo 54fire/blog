@@ -1,7 +1,12 @@
 # Site
 title:              54fire
+<<<<<<< HEAD
 bio:                '苟利国家生死以，岂因福祸避趋之'
 description:        "C语言、Linux"
+=======
+bio:                '苟利国家生死以,岂因福祸避趋之'
+description:        "Welcome to my blog."
+>>>>>>> 60499c2ef1f50c7a5981080f615bbd8ea91bfe09
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/fire.jpeg'
@@ -80,3 +85,6 @@ jekyll-mentions:
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
+
+source:      _source
+destination: _deploy
