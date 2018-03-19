@@ -1,3 +1,3 @@
 ## 54fire的Blog
 
-    <a herf="http://54fire.github.io">我的Blog</a>
+[54fire'Blog](http://54fire.github.io)
