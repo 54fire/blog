@@ -1,6 +1,6 @@
 # visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
 
-avatar: /assets/ico/avatar.jpg
+avatar: assets/ico/avatar.jpg
 paginate: 10 # pagination based on number of posts
 paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
@@ -15,7 +15,7 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: 54fire
+      title: 54fire'Blog
 
 description: Stylish Jekyll Theme
 author:
@@ -23,6 +23,7 @@ author:
   email: 15123375513@163.com
   github: 54fire
   twitter: 
+  facebook: snow.john.52687
   pinterest: asd123
   linkedin: asd123
   bio: Do one thing,do it well!
