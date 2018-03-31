@@ -1,6 +1,5 @@
 # visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
 
-avatar: 
 paginate: 10 # pagination based on number of posts
 paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
@@ -17,24 +16,23 @@ defaults:
     values:
       title: 54fire
 
-description: Stylish Jekyll Theme
+description: Do one thing,do it well!
 author:
   name: 54fire
   email: 15123375513@163.com
   github: 54fire
   twitter: 
-  facebook: snow.john.52687
-  pinterest: asd123
-  linkedin: asd123
+  pinterest:
+  linkedin:
   bio: Do one thing,do it well!
-  email_md5: assets/ico/avatar.jpg
+  email_md5: 
 
 rss_path: feed.xml
 categories_path: categories.html
 tags_path: tags.html
 
 # set it as url of an image
-sidebar_background_image: https://www.dropbox.com/s/g9h23zrycedxtk5/sky.png?raw=1
+# sidebar_background_image: https://www.dropbox.com/s/g9h23zrycedxtk5/sky.png?raw=1
 
 BASE_PATH:
 
