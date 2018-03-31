@@ -23,10 +23,12 @@
 	<link href="{{ site.BASE_PATH }}/assets/css/style.css" rel="stylesheet">
 
 	<!-- Le fav and touch icons -->
+    <!-->
 	<link rel="shortcut icon" href="images/favicon.ico">
 	<link rel="apple-touch-icon" href="images/apple-touch-icon.png">
 	<link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
 	<link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+    <-->
 
 	<link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.BASE_PATH }}/feed.xml">
 </head>
@@ -41,11 +43,6 @@
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 			</button>
-            {% if site.author.facebook %}
-			<a type="button" class="navbar-toggle nav-link" href="http://facebook.com/{{ site.author.facebook }}">
-				<i class="fa fa-facebook"></i>
-			</a>
-			{% endif %}
 			{% if site.author.github %}
 			<a type="button" class="navbar-toggle nav-link" href="http://github.com/{{ site.author.github }}">
 				<i class="fa fa-github"></i>
@@ -86,6 +83,7 @@
 			<li><a href="{{ site.BASE_PATH}}/"><i class="fa fa-home"></i>主页</a></li>
 			<li><a href="{{ site.BASE_PATH}}/{{ site.categories_path }}"><i class="fa fa-folder"></i>归档</a></li>
 			<li><a href="{{ site.BASE_PATH}}/{{ site.tags_path }}"><i class="fa fa-tags"></i>标签</a></li>
+			<li><a href="{{ site.BASE_PATH}}/{{ site.about_path }}"><i class="fa fa-about"></i>关于</a></li>
 			<li class="divider"></li>
 			<li><a href="#"><i class="fa fa-arrow-up"></i>Top of Page</a></li>
 		</ul>
