@@ -8,7 +8,7 @@ highlighter: rouge
 markdown: kramdown
 disqus: 54fire
 google_analytics: 54fire
-title: 54fire'Blog
+title: 54fire
 
 defaults:
   -
