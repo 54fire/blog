@@ -1,7 +1,7 @@
 ---
-layout:post  
-title:Emacs中org-mode的字体设置  
-tags：  
+layout: post  
+title: Emacs中org-mode的字体设置  
+tags:  
 - Emacs
 - org
 - font
