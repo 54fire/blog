@@ -9,7 +9,7 @@ categories: Emacs
 ---
 ## 记录org中字体设置
 
-```lisp
+```
 ;; 设置中文为(微软雅黑)
 (dolist (charset '(kana han symbol cjk-misc bopomofo))
   (set-fontset-font (frame-parameter nil 'font)
